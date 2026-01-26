@@ -13,7 +13,7 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 ### 00. Mini Tienda de Mascotas (analisis)
 
 - 📅 Fecha: Enero 2026
-- 🔗 [En construccion](https://github.com/SantiagoBaeza/Mini-Tienda-de-Mascotas-analisis-/tree/main) 
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Mini-Tienda-de-Mascotas-analisis-/tree/main) 
 - 🛠️ Tecnologías: Python  
 - 📄 Descripción: Proyecto introductorio en Python enfocado en comparar su sintaxis y filosofía con C/C++ mediante un ejercicio simples de tienda de mascotas.
 
