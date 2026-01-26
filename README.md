@@ -10,12 +10,19 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 ## 📘 Índice de Proyectos
 
 ---
+### 00. Mini Tienda de Mascotas (analisis)
 
-### 00. Proyecto de ejemplo en Python
-- 📅 Fecha: Enero 2026  
+- 📅 Fecha: Enero 2026
+- 🔗 [En construccion](https://github.com/SantiagoBaeza/Mini-Tienda-de-Mascotas-analisis-/tree/main) 
+- 🛠️ Tecnologías: Python  
+- 📄 Descripción: Proyecto introductorio en Python enfocado en comparar su sintaxis y filosofía con C/C++ mediante un ejercicio simples de tienda de mascotas.
+
+
+### 01. en construccion
+- 📅 Fecha: ...
 - 🔗 [En construccion](enlace_aca)  
 - 🛠️ Tecnologías: Python  
-- 📄 Descripción: Este es un proyecto de ejemplo para iniciar la recopilación. Aquí se puede colocar una breve explicación del objetivo y funcionalidades.
+- 📄 Descripción: ...
 
 ---
 
