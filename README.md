@@ -10,7 +10,7 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 ## 📘 Índice de Proyectos
 
 ---
-### 00. Mini Tienda de Mascotas (analisis)
+### 01. Mini Tienda de Mascotas (analisis)
 
 - 📅 Fecha: Enero 2026
 - 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Mini-Tienda-de-Mascotas-analisis-/tree/main) 
