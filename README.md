@@ -17,8 +17,14 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 - 🛠️ Tecnologías: Python  
 - 📄 Descripción: Proyecto introductorio en Python enfocado en comparar su sintaxis y filosofía con C/C++ mediante un ejercicio simples de tienda de mascotas.
 
+### 02. Conversor de millas a kilómetros en Python
 
-### 01. en construccion
+- 📅 Fecha: Enero 2026   
+- 🛠️ Tecnologías: Python
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Conversor-de-millas-a-kil-metros-en-Python/tree/main)  
+- 📄 Descripción: Ejercicio introductorio en Python que implementa un conversor simple de millas a kilómetros por consola.
+
+### 03. en construccion
 - 📅 Fecha: ...
 - 🔗 [En construccion](enlace_aca)  
 - 🛠️ Tecnologías: Python  
